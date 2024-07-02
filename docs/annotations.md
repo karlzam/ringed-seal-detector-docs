@@ -1,3 +1,3 @@
 # Annotations
 
-New docs page
+**New docs page**

@@ -8,4 +8,4 @@
 2. Activate the environment you created to run the detector (ex. called "ketos_env")
 
 
-![images\command-prompt-1.png](noise_dist2.png)
+![command-prompt-1.png](images\command-prompt-1.png)

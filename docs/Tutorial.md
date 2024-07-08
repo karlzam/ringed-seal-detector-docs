@@ -6,4 +6,6 @@
 
 1. Navigate into the Anaconda prompt 
 2. Activate the environment you created to run the detector (ex. called "ketos_env")
-3. 
+
+
+![images\command-prompt-1.png](noise_dist2.png)

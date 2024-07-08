@@ -8,4 +8,4 @@
 2. Activate the environment you created to run the detector (ex. called "ketos_env")
 
 
-![command-prompt-1.png](/docs/images/command-prompt-1.png)
+![command-prompt-1.png]<img src="/docs/images/command-prompt-1.png">

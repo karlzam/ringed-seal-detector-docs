@@ -1,7 +1,7 @@
 site_name: Ringed Seal Detector
 theme:
   name: readthedocs
-  logo: chonk.png
+  html_logo: chonk.png
 plugins:
   - search
   - mkdocstrings:

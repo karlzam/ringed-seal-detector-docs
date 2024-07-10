@@ -10,7 +10,5 @@
 ```commandline
 conda activate detector_env
 ```
-⚠️ **If you are already a Python user**: Be very careful here!
 
-
-![command-prompt-1.png](command-prompt-1.png)
+3. 

@@ -13,5 +13,4 @@ conda activate detector_env
 :warning: **If you are already a Python user**: Be very careful here!
 
 
-
 ![command-prompt-1.png](command-prompt-1.png)

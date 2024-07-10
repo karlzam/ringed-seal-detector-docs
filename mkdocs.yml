@@ -1,6 +1,6 @@
 site_name: Ringed Seal Detector
 theme:
-  name: 'readthedocs'
+  name: 'material'
   logo: 'assets/logo.png'
 plugins:
   - search

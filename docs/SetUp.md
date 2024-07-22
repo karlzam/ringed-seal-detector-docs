@@ -97,7 +97,7 @@ At the bottom there are two sentences:
 
 The two output files will be in the output folder (as explained above), and the text file for use in Raven uses the merged detections.
 
-<video controls>
-<source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" type="video/webm">
+<video width="600"  controls>
+  <source src="../../example-output.mp4" type="video/mp4">
 </video>
 

@@ -97,7 +97,9 @@ At the bottom there are two sentences:
 
 The two output files will be in the output folder (as explained above), and the text file for use in Raven uses the merged detections.
 
-<video width="600"  controls>
+The below video walks through how to open the text file in Raven, and how to view the detections.
+
+<video width="800"  controls>
   <source src="../example-output.mp4" type="video/mp4">
 </video>
 

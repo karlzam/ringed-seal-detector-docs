@@ -71,3 +71,11 @@ cd C:\Users\kzammit\Documents\RS-detector
 ```commandline
 python ringed-seal-cli.py .\models .\audio .\output
 ```
+
+## Output Files
+
+In the output folder, there will be two files: 
+
+1. "detections-filtered-and-grouped.xlsx": An Excel sheet which includes the filename, start time, end time, label, and score for a detection.
+
+2. "raven-formatted-detections.txt": The detections formatted for use in Raven Pro 1.60. This file can be loaded as a "Sound Selection File" which automatically loads the audio files with detections placed on top. 

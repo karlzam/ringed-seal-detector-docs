@@ -6,10 +6,9 @@ The detector was written in Python, and requires Anaconda (or Miniconda) to run.
 
 Please see the [Set Up](SetUp.md) page to get started.
 
-
-!!! note
-
-    This project is under active development.
+<video width="700"  controls>
+  <source src="../main-page.mp4" type="video/mp4">
+</video>
 
 
 

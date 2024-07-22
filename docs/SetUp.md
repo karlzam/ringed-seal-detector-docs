@@ -49,6 +49,8 @@ This may take a few minutes. Note the below error message if you run into issues
 
 ![dir](tutorial-1.png)
 
+If you don't have audio files of your own, or you'd like to test the detector before running on your own data, a subsample of audio files have been provided in the "audio.zip" folder on GitHub. 
+
 ## Run the Detector
 
 1. In the Anaconda prompt (with your environment activated), navigate into your directory:
@@ -79,3 +81,7 @@ In the output folder, there will be two files:
 1. "detections-filtered-and-grouped.xlsx": An Excel sheet which includes the filename, start time, end time, label, and score for a detection.
 
 2. "raven-formatted-detections.txt": The detections formatted for use in Raven Pro 1.60. This file can be loaded as a "Sound Selection File" which automatically loads the audio files with detections placed on top. 
+
+## Run with Example Audio Files
+
+

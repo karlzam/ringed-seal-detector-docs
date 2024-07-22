@@ -99,7 +99,7 @@ The two output files will be in the output folder (as explained above), and the 
 
 The below video walks through how to open the text file in Raven, and how to view the detections.
 
-<video width="800"  controls>
+<video width="700"  controls>
   <source src="../example-output.mp4" type="video/mp4">
 </video>
 

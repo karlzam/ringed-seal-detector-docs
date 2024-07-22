@@ -49,24 +49,24 @@ This may take a few minutes. Note the below error message if you run into issues
 
 ![dir](tutorial-1.png)
 
-7. In the Anaconda prompt (with your environment activated), navigate into your directory:
+## Run the Detector
+
+1. In the Anaconda prompt (with your environment activated), navigate into your directory:
 
 ```commandline
 cd C:\Users\kzammit\Documents\RS-detector
 ```
-8. Open the help dialog for the command line interface: 
 
-```commandline
-python ringed-seal-cli.py -h 
-```
+!!! note
 
-It should output several lines (which can vary if a user does or does not have a GPU) ending with :
+    To open the help dialog for the command line interface, type: 
+   
+      "python ringed-seal-cli.py -h"
 
-![help](help-dialog.png)
+      This will outline the positional and optional arguments. See [Usage](Usage.md) for more information.
 
-The positional arguments are required to run the command line interface, and the optional arguments are for more advanced users. See [Usage](Usage.md) for more information.
 
-**9. To run the detector, type:** 
+**2. To run the detector, type:** 
 
 ```commandline
 python ringed-seal-cli.py .\models .\audio .\output

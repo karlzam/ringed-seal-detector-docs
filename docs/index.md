@@ -10,4 +10,6 @@ Please see the [Set Up](SetUp.md) page to get started.
   <source src="main-page.mp4" type="video/mp4">
 </video>
 
+[TOC]
+
 

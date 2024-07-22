@@ -4,6 +4,7 @@ theme:
   logo: logo.png
 plugins:
   - search
+  - awesome-pages
   - mkdocstrings:
       handlers:
         # See: https://mkdocstrings.github.io/python/usage/

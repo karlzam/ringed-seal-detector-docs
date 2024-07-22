@@ -84,4 +84,15 @@ In the output folder, there will be two files:
 
 ## Run with Example Audio Files
 
+[Example audio files](https://github.com/karlzam/ringed-seal-detector/blob/main/config/audio.zip) have been provided to test the detector with your set-up and to explore the output files. Extract these from the zip file and place in your audio folder as described above. 
 
+Below is an example of output for a working detector run: 
+
+![output](example-output.png)
+
+At the bottom there are two sentences: 
+
+1. "The total number of detections is 108": These are the total number of detections above the defined threshold (default is 0.5) with no merging.
+2. "The total number of grouped detections is 48": These are the merged detections. If multiple 1-s windows beside each other or overlapping with each other had the same classification, the post-processing merges these into one detection of variable length. 
+
+The two output files will be in the output folder (as explained above), and the text file for use in Raven uses the merged detections.

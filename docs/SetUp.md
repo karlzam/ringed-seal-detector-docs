@@ -1,4 +1,4 @@
-# Set Up
+# Set Up & Run
 
 ## Overview 
 

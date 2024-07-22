@@ -7,7 +7,7 @@ The detector was written in Python, and requires Anaconda (or Miniconda) to run.
 Please see the [Set Up](SetUp.md) page to get started.
 
 <video width="700"  controls>
-  <source src="../main-page.mp4" type="video/mp4">
+  <source src="main-page.mp4" type="video/mp4">
 </video>
 
 

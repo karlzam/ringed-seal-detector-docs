@@ -6,8 +6,8 @@ The project was funded by Mitacs, Wildlife Conservation Society Canada, and Fish
 
 Main contact: Karlee Zammit, kzammit@uvic.ca
 
-<img src="mitacs-logo.png" alt="drawing" width="300"/>
+<img src="../mitacs-logo.png" alt="drawing" width="300"/>
 
-<img src="WCS-logo.jpg" alt="drawing" width="300"/>
+<img src="../WCS-logo.jpg" alt="drawing" width="300"/>
 
 ![fisheries](fisheries-logo.jpg)

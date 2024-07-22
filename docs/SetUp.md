@@ -93,6 +93,8 @@ Below is an example of output for a working detector run:
 At the bottom there are two sentences: 
 
 1. "The total number of detections is 108": These are the total number of detections above the defined threshold (default is 0.5) with no merging.
-2. "The total number of grouped detections is 48": These are the merged detections. If multiple 1-s windows beside each other or overlapping with each other had the same classification, the post-processing merges these into one detection of variable length. 
+2. "The total number of grouped detections is 48": These are the merged detections. If multiple 1-s windows beside each other or overlapping with each other had the same classification, the post-processing merges these into one detection of variable length, taking the median of scores as the score. 
 
 The two output files will be in the output folder (as explained above), and the text file for use in Raven uses the merged detections.
+
+![example](example-output.webm)

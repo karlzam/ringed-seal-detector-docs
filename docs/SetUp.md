@@ -1,11 +1,5 @@
 # Set Up
 
-!!! note
-
-    ⚠️ **If you are already a Python user**: Some users experienced issues with NumPy versioning. If you have errors (example: loading NDarray), force install NumPy version 1.24.4 in your detector environment.
-    
-    Type (with your environment activated): pip install numpy==1.24.4
-
 ## Overview 
 
 This tutorial uses Python version 3.9.17 and Ketos version 2.7.0.
@@ -32,4 +26,10 @@ conda activate RS_env
 pip install ketos=2.7.0
 ```
 
-This may take a few minutes. Note the error message at the top of this screen if you run into issues with Numpy versioning.
+This may take a few minutes. Note the below error message if you run into issues with Numpy versioning.
+
+!!! note
+
+    ⚠️ **If you are already a Python user**: Some users experienced issues with NumPy versioning. If you have errors (example: loading NDarray), force install NumPy version 1.24.4 in your detector environment.
+    
+    Type (with your environment activated): pip install numpy==1.24.4

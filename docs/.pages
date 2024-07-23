@@ -1,5 +1,6 @@
 nav:
     - index.md
+    - About.md
     - SetUp.md
     - Usage.md
     - Credits.md

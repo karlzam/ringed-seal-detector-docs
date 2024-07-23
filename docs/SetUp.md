@@ -26,13 +26,7 @@ conda activate RS_env
 pip install ketos==2.7.0
 ```
 
-This may take a few minutes. Note the below error message if you run into issues with Numpy versioning.
-
-!!! note
-
-    ⚠️ **If you are already a Python user**: Some users experienced issues with NumPy versioning. If you have errors (example: loading NDarray), force install NumPy version 1.24.4 in your detector environment.
-    
-    Type (with your environment activated): pip install numpy==1.24.4
+This may take a few minutes. 
 
 6. Force install the correct numpy version 
 
@@ -43,7 +37,7 @@ pip install numpy==1.24.4
 7. Install openpyxl
 
 ```commandline
-pip install numpy==1.24.4
+pip install openpyxl
 ```
 
 8. Navigate to the [ringed seal detector repository](https://github.com/karlzam/ringed-seal-detector/tree/main) on GitHub

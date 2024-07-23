@@ -18,7 +18,7 @@
 
 -spectro_file: File containing the spectrogram generation parameters. The default must be used, as the network has been trained using these parameters and will not accept alterations. 
 
-### Example
+## Example
 
 ```commandline
 python ringed-seal-cli.py .\models .\audio .\output

@@ -1,4 +1,5 @@
 site_name: Ringed Seal Detector
+repo_url: https://github.com/karlzam/ringed-seal-detector
 theme:
   name: readthedocs
   logo: logo-seal.png

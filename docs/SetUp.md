@@ -23,7 +23,7 @@ conda activate RS_env
 5. Install ketos version 2.7.0: 
 
 ```commandline
-pip install ketos=2.7.0
+pip install ketos==2.7.0
 ```
 
 This may take a few minutes. Note the below error message if you run into issues with Numpy versioning.
@@ -34,18 +34,30 @@ This may take a few minutes. Note the below error message if you run into issues
     
     Type (with your environment activated): pip install numpy==1.24.4
 
-6. Navigate to the [ringed seal detector repository](https://github.com/karlzam/ringed-seal-detector/tree/main) on GitHub
+6. Force install the correct numpy version 
 
-7. Download the following files and place them in a directory of your choice: 
+```commandline
+pip install numpy==1.24.4
+```
+
+7. Install openpyxl
+
+```commandline
+pip install numpy==1.24.4
+```
+
+8. Navigate to the [ringed seal detector repository](https://github.com/karlzam/ringed-seal-detector/tree/main) on GitHub
+
+9. Download the following files and place them in a directory of your choice: 
     1. ringed-seal-cli.py
     2. config\spec_config.json
    3. config\models.zip
 
-5. Unzip the models.zip file and place in a folder called "models". There should be 10 ".kt" files within the folder:
+10. Unzip the models.zip file and place in a folder called "models". There should be 10 ".kt" files within the folder:
 
 ![dir](tutorial-3.png)
 
-6. Place your audio files within a folder called "audio". Your directory should look like this: 
+11. Place your audio files within a folder called "audio". Your directory should look like this: 
 
 ![dir](tutorial-1.png)
 

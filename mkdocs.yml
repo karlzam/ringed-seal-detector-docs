@@ -17,3 +17,8 @@ markdown_extensions:
       base_path: .
   - admonition
   - sane_lists
+nav:
+  - "index.md"
+  - "SetUp.md"
+  - "Usage.md"
+  - "Credits.md"

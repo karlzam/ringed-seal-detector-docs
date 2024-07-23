@@ -45,7 +45,8 @@ pip install openpyxl
 9. Download the following files and place them in a directory of your choice: 
     1. ringed-seal-cli.py
     2. config\spec_config.json
-   3. config\models.zip
+    3. config\models.zip
+
 
 10. Unzip the models.zip file and place in a folder called "models". There should be 10 ".kt" files within the folder:
 

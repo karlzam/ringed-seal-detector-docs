@@ -14,6 +14,7 @@ The development of this detector took place in the traditional lands of the Lekw
 people, who we acknowledge and respect and whose historical relationships with the land 
 continue to this day.
 
+
 <img src="../mitacs-logo.png" alt="drawing" width="200"/>
 
 <img src="../WCS-logo.jpg" alt="drawing" width="200"/>

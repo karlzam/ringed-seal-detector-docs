@@ -10,3 +10,5 @@ The detector uses the [Ketos](https://docs.meridian.cs.dal.ca/ketos/introduction
 
 Please see the [Set Up](SetUp.md) page to get started.
 
+[GitHub Repository](https://github.com/karlzam/ringed-seal-detector/tree/main)
+

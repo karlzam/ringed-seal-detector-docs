@@ -4,7 +4,7 @@ This project was completed at the University of Victoria (British Columbia, Cana
 
 The project was funded by Mitacs, Wildlife Conservation Society Canada, and Fisheries and Oceans Canada. Data was provided by Wildlife Conservation Society Canada.
 
-Main contact: Karlee Zammit, kzammit@uvic.ca
+Main contact: Karlee Zammit, through the [GitHub Repository](https://github.com/karlzam/ringed-seal-detector/tree/main)
 
 <img src="../mitacs-logo.png" alt="drawing" width="200"/>
 

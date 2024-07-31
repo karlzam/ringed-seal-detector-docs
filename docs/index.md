@@ -5,10 +5,7 @@ passive acoustic data. It was trained using data from the Western Canadian Arcti
 focuses on the 100-1200 Hz (low frequency) range. Detection outputs are compatible with 
 [Raven Sound Analysis Software](https://www.ravensoundsoftware.com/). 
 
-The detector was written in Python, and requires Anaconda (or Miniconda) to run. 
-The detector uses the [Ketos](https://docs.meridian.cs.dal.ca/ketos/introduction.html) Python package extensively.
-
-Please see the [Set Up](SetUp.md) page to get started.
+Please see the [About](About.md) and [Set Up](SetUp.md) pages to get started.
 
 [GitHub Repository](https://github.com/karlzam/ringed-seal-detector/tree/main)
 

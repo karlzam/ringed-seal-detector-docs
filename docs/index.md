@@ -14,3 +14,7 @@ Please see the [Set Up](SetUp.md) page to get started.
 
 ![example](example.png)
 
+The data collection for this detector took place in the Inuvialuit Settlement Region. 
+We are grateful to the Inuvialuit and Inuit for help with data collection, and for allowing 
+this research to be conducted in their traditional lands. Koana, quyanainni, thank you.
+

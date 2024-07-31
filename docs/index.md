@@ -12,3 +12,5 @@ Please see the [Set Up](SetUp.md) page to get started.
 
 [GitHub Repository](https://github.com/karlzam/ringed-seal-detector/tree/main)
 
+![example](example.png)
+

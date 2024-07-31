@@ -18,3 +18,7 @@ The data collection for this detector took place in the Inuvialuit Settlement Re
 We are grateful to the Inuvialuit and Inuit for help with data collection, and for allowing 
 this research to be conducted in their traditional lands. Koana, quyanainni, thank you.
 
+The development of this detector took place in the traditional lands of the Lekwungen 
+people, who we acknowledge and respect and whose historical relationships with the land 
+continue to this day.
+

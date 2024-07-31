@@ -8,10 +8,5 @@ focuses on the 100-1200 Hz (low frequency) range. Detection outputs are compatib
 The detector was written in Python, and requires Anaconda (or Miniconda) to run. 
 The detector uses the [Ketos](https://docs.meridian.cs.dal.ca/ketos/introduction.html) Python package extensively.
 
-Please see the [Set Up](SetUp.md) page to get started. 
-
-<video width="700"  controls>
-  <source src="main-page.mp4" type="video/mp4">
-</video>
-
+Please see the [Set Up](SetUp.md) page to get started.
 
